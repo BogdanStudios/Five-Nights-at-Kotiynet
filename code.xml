@@ -11,7 +11,7 @@
     <dateTimeUpload></dateTimeUpload>
     <description>Просто фан-игра по Kotiynet, но FNAF. Идею взял и видею канала Kotiynet и создателя Arsemae Games. Посмотрите, прежде чем, как меня закидать помидорами и тапками(я создал эту игру в 11 лет).</description>
     <deviceName>SM-A165F</deviceName>
-    <gitRemoteUrl></gitRemoteUrl>
+    <gitRemoteUrl>https://github.com/BogdanStudios/Five-Nights-at-Kotiynet.git</gitRemoteUrl>
     <isCastProject>false</isCastProject>
     <landscapeMode>true</landscapeMode>
     <listeningLanguageTag></listeningLanguageTag>
